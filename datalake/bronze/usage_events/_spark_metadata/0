@@ -1,0 +1,5 @@
+v1
+{"path":"file:///content/drive/MyDrive/Minería%20de%20Datos%20II/Proyectos/datalake/bronze/usage_events/part-00000-d6e7c617-099e-4b16-a40b-5f984c3131b2-c000.snappy.parquet","size":459307,"isDir":false,"modificationTime":1791144506000,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///content/drive/MyDrive/Minería%20de%20Datos%20II/Proyectos/datalake/bronze/usage_events/part-00001-39244901-867c-43cb-9cca-5315ae64d608-c000.snappy.parquet","size":452577,"isDir":false,"modificationTime":1791144506000,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///content/drive/MyDrive/Minería%20de%20Datos%20II/Proyectos/datalake/bronze/usage_events/part-00002-c1607be6-22be-4b0a-8d0d-0bb108ceac66-c000.snappy.parquet","size":454446,"isDir":false,"modificationTime":1791144508000,"blockReplication":1,"blockSize":33554432,"action":"add"}
+{"path":"file:///content/drive/MyDrive/Minería%20de%20Datos%20II/Proyectos/datalake/bronze/usage_events/part-00003-e09a199d-a95e-4666-a03a-6add22d6edc0-c000.snappy.parquet","size":333894,"isDir":false,"modificationTime":1791144507000,"blockReplication":1,"blockSize":33554432,"action":"add"}
